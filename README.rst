@@ -14,7 +14,7 @@ I took an article that is linked above and re-used it, adding my own modificatio
 for my own purposes and also to massively improve the speed.
 
 The shell files are my own and were written by me, but again they are
-for pure ease of use **
+for pure ease of use**
 
 **Everything in this repo is custom-made for a specific purpose, it is unlikely to be
 of any use to you**

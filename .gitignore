@@ -1,0 +1,6 @@
+logs/*
+rendering/*
+logs*
+*.mp4
+*.pyc
+*.*~

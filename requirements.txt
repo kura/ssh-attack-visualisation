@@ -1,0 +1,7 @@
+GeoIP-Python==1.2.5
+basemap==1.0.2
+lxml==2.3.3
+matplotlib==1.1.0
+numpy==1.6.1
+pylogsparser==0.4
+pyshapelib==0.3
